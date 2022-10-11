@@ -55,3 +55,14 @@ GitHub es una forja para alojar proyectos utilizando el sistema de control de ve
 - Git tag. 
 
 - Git Branch.
+<hr>
+
+## **Glosario**
+
+- **Repositorio:** Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software.
+<br>
+
+- **Terminal:** En informática, se denomina terminal o consola a un dispositivo electrónico o electromecánico que se utiliza para interactuar con un computador. El concepto de terminal suele confundirse con el de emulador virtual, que consiste en un programa que emula las especificaciones de un terminal estándar.
+<br>
+
+- **Commit:** Consolidar, confirmar​ o hacer un commit se refiere, en el contexto de la ciencia de la computación y la gestión de datos, a la idea de confirmar un conjunto de cambios provisionales de forma permanente. Un uso popular es al final de una transacción de base de datos.
